@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    border-radius: 5rem;
+    height:3rem;
+    margin-left: -1vw;
+}
+
+.btn1{
+    margin-right: 20px;
+}
